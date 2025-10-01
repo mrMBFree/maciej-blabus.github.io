@@ -1,4 +1,6 @@
 import React from "react";
+import "./components/css/main.css";
+import "./components/css/noscript.css";
 import { HashRouter as Router, Routes, Route } from "react-router-dom";
 
 import Header from "./components/Header";
