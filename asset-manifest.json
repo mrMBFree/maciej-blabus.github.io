@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/maciej-blabus.github.io/static/css/main.e6c13ad2.css",
+    "main.js": "/maciej-blabus.github.io/static/js/main.d9295e61.js",
+    "static/js/488.77cc9703.chunk.js": "/maciej-blabus.github.io/static/js/488.77cc9703.chunk.js",
+    "index.html": "/maciej-blabus.github.io/index.html",
+    "main.e6c13ad2.css.map": "/maciej-blabus.github.io/static/css/main.e6c13ad2.css.map",
+    "main.d9295e61.js.map": "/maciej-blabus.github.io/static/js/main.d9295e61.js.map",
+    "488.77cc9703.chunk.js.map": "/maciej-blabus.github.io/static/js/488.77cc9703.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.d9295e61.js"
+  ]
+}
