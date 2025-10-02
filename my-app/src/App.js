@@ -1,17 +1,27 @@
+import React from "react";
 import "./App.css";
-import { HashRouter as Router, Routes, Route, Link } from "react-router-dom";
+import { HashRouter as Router, Routes, Route } from "react-router-dom";
+import Header from "./components/Header";
+import Footer from "./components/Footer";
+
+import Intro from "./components/Intro";
+import Work from "./components/Work";
+import About from "./components/About";
+import Contact from "./components/Contact";
 
 function App() {
   return (
-    <Router>
-      <nav>
-        <Link to="/">Home</Link> | <Link to="/about">About</Link>
-      </nav>
-      <Routes>
-        <Route path="/" element={<h1>Home Page</h1>} />
-        <Route path="/about" element={<h1>About Page</h1>} />
-      </Routes>
-    </Router>
+    <div id="wrapper">
+      <Header />
+      <div id="main">
+        <Intro />
+        <Work />
+        <About />
+        <Contact />
+      </div>
+      <Footer />
+      <div id="bg"></div>
+    </div>
   );
 }
 
