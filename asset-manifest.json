@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/maciej-blabus.github.io/my-app/static/css/main.f855e6bc.css",
-    "main.js": "/maciej-blabus.github.io/my-app/static/js/main.1d95c454.js",
-    "static/js/453.117b0875.chunk.js": "/maciej-blabus.github.io/my-app/static/js/453.117b0875.chunk.js",
-    "index.html": "/maciej-blabus.github.io/my-app/index.html",
-    "main.f855e6bc.css.map": "/maciej-blabus.github.io/my-app/static/css/main.f855e6bc.css.map",
-    "main.1d95c454.js.map": "/maciej-blabus.github.io/my-app/static/js/main.1d95c454.js.map",
-    "453.117b0875.chunk.js.map": "/maciej-blabus.github.io/my-app/static/js/453.117b0875.chunk.js.map"
+    "main.css": "/maciej-blabus.github.io/static/css/main.f855e6bc.css",
+    "main.js": "/maciej-blabus.github.io/static/js/main.7374a9b1.js",
+    "static/js/453.117b0875.chunk.js": "/maciej-blabus.github.io/static/js/453.117b0875.chunk.js",
+    "index.html": "/maciej-blabus.github.io/index.html",
+    "main.f855e6bc.css.map": "/maciej-blabus.github.io/static/css/main.f855e6bc.css.map",
+    "main.7374a9b1.js.map": "/maciej-blabus.github.io/static/js/main.7374a9b1.js.map",
+    "453.117b0875.chunk.js.map": "/maciej-blabus.github.io/static/js/453.117b0875.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.1d95c454.js"
+    "static/js/main.7374a9b1.js"
   ]
 }
